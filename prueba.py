@@ -1,3 +1,4 @@
+# Prueba 1. Organizador de horarios sin colisiones
 class Materia:
     def __init__(self, nombre: str, grupo: int, profesor: str, horario: int, dias: str) -> None:
         self.nombre = nombre
