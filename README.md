@@ -1,6 +1,6 @@
 # avance_proyecto
 
-Algoritmo principal del sistema
+Algoritmo principal de ordenamiento del sistema
 ``` mermaid
 graph TD
     A[Inicio] --> B[Ordenar materias por preferencia]
